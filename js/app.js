@@ -107,5 +107,3 @@ menu.addEventListener('click', scrollToSection);
 
 // Set sections as active
 document.addEventListener("scroll", showActiveClass);
-
-
