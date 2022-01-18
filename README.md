@@ -2,7 +2,7 @@
 
 Product Launch Landing Page 
 
-# Demo-Preview
+# Demo Preview
 
 ![Landing Page Preview](https://github.com/ceofvo/landing-page/blob/master/images/screen-shot.PNG)
 
