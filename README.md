@@ -4,7 +4,7 @@ Product Launch Landing Page
 
 # Demo-Preview
 
-![Landing Page Preview](https://github.com/ceofvo/landing-page/images/blob/master/screen-shot.PNG)
+![Landing Page Preview](https://github.com/ceofvo/landing-page/blob/master/images/screen-shot.PNG)
 
 # Description
 
@@ -23,7 +23,7 @@ To use this project, first clone the repo on your device using the command below
 
 # Usage
 
-To run the project after cloning the reop, click on the index.html file to launch in your preferred browser
+To run the project after cloning the repo, click on the index.html file to launch the project in your preferred browser
 
 # Production Demo
 
